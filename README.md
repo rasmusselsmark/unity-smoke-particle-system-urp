@@ -45,3 +45,23 @@ Additionally you can configure the following settings for the particle system to
 * Color over lifetime, to make smoke brighter at top
 
 The above steps are based on the Youtube video [How to Create SMOKE with Particles in Unity!](https://www.youtube.com/watch?v=YwGS73QpPt0), so you can watch that for more details.
+
+### Making a simple campfire
+
+1. Create cylinders to form a very simple campfire
+   ![Simple campfire](./Assets/Documentation/Images/campfire.png)
+2. Create a particle system with the following settings:
+   - Start lifetime: 0.2
+   - Start color: Yellow
+   - Emission
+     - Rate over time: 10
+   - Shape
+     - Shape: Cone
+     - Angle: 10
+     - Radius: 0.1
+  - Color over lifetime
+    - Dark orange to light orange
+3. Adjust the original smoke particle system to be a bit smaller
+
+Your campfire could now look something like this:
+![Playmode with campfire](./Assets/Documentation/Images/playmode-with-campfire.png)
