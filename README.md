@@ -65,3 +65,9 @@ The above steps are based on the Youtube video [How to Create SMOKE with Particl
 
 Your campfire could now look something like this:
 ![Playmode with campfire](./Assets/Documentation/Images/playmode-with-campfire.png)
+
+## Credits
+
+Following assets are used in project:
+* [Starter Assets - Third Person Character Controller](https://assetstore.unity.com/packages/essentials/starter-assets-third-person-character-controller-196526)
+* [Mobile Tree Package](https://assetstore.unity.com/packages/3d/vegetation/trees/mobile-tree-package-18866)
